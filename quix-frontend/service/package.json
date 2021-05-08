@@ -50,7 +50,7 @@
     "rxjs": "^6.3.3",
     "tapable": "^1.1.1",
     "tsconfig-paths": "^3.8.0",
-    "typeorm": "^0.2.15",
+    "typeorm": "^0.2.25",
     "uuid": "^3.3.2",
     "velocity": "^0.7.2",
     "ws": "^7.2.1",
